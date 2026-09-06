@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "uv_pixel_border"
+version = "1.0.1"
+name = "UV Pixel Border"
+tagline = "Pixelated UV border overlay with texel-accurate bake preview"
+maintainer = "LensLance"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["UV"]
+
+website = "https://github.com/LENS6/UV-Pixel-Border-Display"
+support = "https://github.com/LENS6/UV-Pixel-Border-Display/issues"
