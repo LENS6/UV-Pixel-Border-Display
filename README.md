@@ -1,8 +1,8 @@
-# UV Pixel Border
+# Pixel UV Border
 
 Pixelated UV border overlay for Blender's UV Editor, with selection highlight, texel-accurate bake expansion preview, mask export, and Maya-style auto seam marking.
 
-**UV Pixel Border** overlays every genuinely split UV border in the UV Editor as a blocky pixel border — completely independent of seam marks, so overlapping split UVs are detected too. The border keeps a constant screen-space pixel size and stays razor sharp at any zoom level.
+**Pixel UV Border** overlays every genuinely split UV border in the UV Editor as a blocky pixel border — completely independent of seam marks, so overlapping split UVs are detected too. The border keeps a constant screen-space pixel size and stays razor sharp at any zoom level.
 
 ## Features
 
@@ -21,9 +21,9 @@ Pixelated UV border overlay for Blender's UV Editor, with selection highlight, t
 
 ## Installation
 
-1. Download **`uv_pixel_border_v1.0.1.zip`** from the [Releases](../../releases) page, or use the `uv_pixel_border` folder in this repository.
-2. In Blender: **Edit → Preferences → Get Extensions → Install from Disk** (Blender 4.2+) or **Add-ons → Install** and select the zip / the `uv_pixel_border` folder.
-3. Enable **UV Pixel Border** in the add-ons list.
+1. Download **`pixel_uv_border_v1.0.1.zip`** from the [Releases](../../releases) page, or use the `pixel_uv_border` folder in this repository.
+2. In Blender: **Edit → Preferences → Get Extensions → Install from Disk** (Blender 4.2+) or **Add-ons → Install** and select the zip / the `pixel_uv_border` folder.
+3. Enable **Pixel UV Border** in the add-ons list.
 
 ## Usage
 
@@ -57,8 +57,8 @@ UV Editor → Sidebar (**N**) → **Pixel Border** tab. Works on meshes in Edit 
 
 ## Support
 
-- Report bugs or request features: <https://github.com/LENS6/UV-Pixel-Border-Display/issues>
-- Source code and releases: <https://github.com/LENS6/UV-Pixel-Border-Display>
+- Report bugs or request features: <https://github.com/LENS6/pixel_uv_border/issues>
+- Source code and releases: <https://github.com/LENS6/pixel_uv_border>
 
 ## License
 
