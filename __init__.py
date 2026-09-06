@@ -14,7 +14,7 @@
 # ============================================================
 bl_info = {
     "name": "UV Pixel Border Display v1.0.1",
-    "author": "TraeWork",
+    "author": "LensLance",
     "version": (1, 0, 1),
     "blender": (4, 2, 0),
     "location": "UV Editor sidebar (N) -> Pixel Border",
